@@ -9,6 +9,8 @@ contain only specification and not implementation.
 
 =pkgroup Included modules
 
+=pkg DefHash
+
 =pkg Riap
 
 =pkg Rinci
