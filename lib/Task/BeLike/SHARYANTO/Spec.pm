@@ -11,6 +11,8 @@ contain only specification and not implementation.
 
 =pkg DefHash
 
+=pkg IOD
+
 =pkg Riap
 
 =pkg Rinci
