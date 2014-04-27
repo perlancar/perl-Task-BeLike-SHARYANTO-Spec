@@ -21,6 +21,8 @@ contain only specification and not implementation.
 
 =pkg Setup
 
+=pkg SHARYANTO::TableSpec
+
 =pkg Unixish
 
 =cut
